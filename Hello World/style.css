@@ -1,0 +1,57 @@
+body {
+	background-color: #000000;
+	color: #00ff00;
+	font: normal normal normal 12px oloron, monospace;
+}
+
+h1 {
+	font: normal bold normal 48px oloron, monospace;
+	text-decoration: underline;
+	text-transformation: uppercase;
+}
+
+h2 {
+	font: normal bold normal 36px oloron, monospace;
+	text-decoration: underline;
+	text-transformation: capitalize;
+}
+
+h3 {
+	font: normal bold normal 24px oloron, monospace;
+	text-decoration: underline;
+}
+
+p {
+	text-indent: 30px;
+}
+
+th {
+	text-align: center;
+	font-weight: bold
+}
+
+td {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: #00ff00;
+}
+
+a:visited {
+	color: #00ff00
+}
+
+a:active {
+	background-color: #00ff00;
+	color: #000000;
+}
+
+a:hover {
+	color: #003300
+	font-style: italic;
+}
